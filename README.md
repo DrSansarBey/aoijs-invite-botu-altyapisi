@@ -1,2 +1,2 @@
 # aoijs-invite-botu-altyapisi
-AOI.JS Davet botu altyapısı
+AOI.JS davet botu altyapısının tüm hakları [Candy | Code](https://discord.gg/TsCJwrBJKR)'a aittir.
